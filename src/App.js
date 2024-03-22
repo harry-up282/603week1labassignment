@@ -52,13 +52,10 @@ function App() {
               <span style={{
                   border: "2px solid black",
                   padding: "10px",
-                  // marginRight: "5px",
-                  // borderRadius: "5px",
                   display: "inline-block",
                   width: "27px",
                   height: "27px",
                   lineHeight: "7px",
-                  // textAlign: "center",
                 }}>{item.quantity}</span>: Quantity
                 
               </td>
